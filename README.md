@@ -1,6 +1,6 @@
 # SQL-XSS
 A few SQL and XSS attack tools
-## SQLI.py
+## SQLi.py
 Inspired but not based on the popular tool SQLmap, SQLi is a SQL vulnerability checker and a database takeover tool
 ## xfuzz.py 
 xfuzz is a Python script to check for cross-site scripting attacks and what payload is used to cleanly break out of the code. xfuzz takes care of crafting the payload for you by first detecting the location of the parameter reflection, then using a number of tests to determine what payload is needed.
