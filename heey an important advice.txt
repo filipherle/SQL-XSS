@@ -1,0 +1,18 @@
+Tip to improove xss app!!!
+Open gate of brain with salvia divnorum (sage high) and read. Different programming language has differnt libraries so write this apl in different lang if u can.. New ideas can come
+Dombased and other xss type should be taken care.. They are essential for making a goood app. Learning programming concepts/idea iis also good... Like xssniper has option of cookie, some collect data to find info recon and search for xsss.. Xsseer is good but have lot of options and they just destroy the mood, hang often or dont work. Tamperscript such as encoding and dob.. Encoding script is essential. Even u can learn from sqlmap.similarly other thiings are to be considwred while developiiing and improviing xss apps.
+New modifications ok
+
+Xss is not in input only its ecerywhere in headers.. Wherever it gets reflected its there.. If u store some data then ther's xss.. Moreover xss maybe in post data and lots..
+So develop your app so that iit places payload everywhere and test for response.. Create a domain... Play with domain and your app.. Increase security of domain so that certain scriptt only work.. Then use your app test it
+
+HEY ADD FEAaTURE OF --cookie parameter beacause you cant test in on many web sites and apps like bWAPP ,dvwa.
+1)First install bWAPP aand goto Reflected XSS page.
+2)Then try using the app. It will faiil .
+3)Use burp to see the request and find cookie parameter
+4)Download XSSniper app and using --cookie="cookiedata" you can find xss vulnerability but doesnt work in other app as it doesnt have --cookie feature.Plz make this feature available.
+moreover
+
+HEY. FROM HERE REQUEST OF NEW SECOND FEATURE STARTS.
+What is the best way of earniing money.. Creating a good app(no app shouldnt be sold for mooney as it wiill decrease no of users) but.. Since people use this app for bug hunting and if they get xss with this app maybe they donate some amount to app dev.. I tooo do that..so you will earn much iif much people use it and to make people use it u have to continuosly develop. And many others do so create a goood app.. It will be beneficial for both devs and other.. Create --cookie feature to specify coookie --header to specify header and so on.
+Make a feature called --file feature from which we can add our custom payload.. Once paylooad from a line.. Make sure while adding custom payload it detects prooperly.. Xss can be known by alert (1), prompt (1),console.log . Log, document.Write etx.. Sometimes console.log is a good payload and triggers xss whiile app dont show.. Read all python liibs, import much increase its uses.. Use bwapp.. Try big..
